@@ -1,0 +1,2 @@
+user/.freemind 
+폴더에 해당 .xml파일을 붙여넣어라.

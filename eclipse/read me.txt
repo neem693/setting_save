@@ -1,0 +1,1 @@
+eclipse 원본 파일/.setting 으로 붙여넣기 하면된다.
