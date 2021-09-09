@@ -1,5 +1,5 @@
 #
-#Thu Sep 09 19:24:05 KST 2021
+#Thu Sep 09 19:44:41 KST 2021
 latex_disable_editor=false
 printonwhitebackground=true
 SplitToWordsAction.nodeNumbersInLine=1, 2, 6, 12
@@ -200,7 +200,7 @@ max_image_width=600
 check_updates_automatically=true
 org.freeplane.plugin.svg.export.svg.embed_fonts=true
 toolbar_icon_height=16 pt
-language=automatic
+language=ko
 el__min_default_window_width=500
 datetime_format=SHORT,SHORT
 remindersStandardDelay=5 minutes
