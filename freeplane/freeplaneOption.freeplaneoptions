@@ -1,5 +1,5 @@
 #
-#Fri Sep 10 01:40:42 KST 2021
+#Fri Sep 10 19:20:59 KST 2021
 latex_disable_editor=false
 printonwhitebackground=true
 SplitToWordsAction.nodeNumbersInLine=1, 2, 6, 12
@@ -142,7 +142,7 @@ standardselectednodecolor=\#4e85f8ff
 script_directories=
 markClones=false
 format_locale=automatic
-selection_method=selection_method_delayed
+selection_method=selection_method_by_click
 max_displayed_node_count=20
 copyFormatToNewChild=false
 file_chooser_shows_special_folders=false
